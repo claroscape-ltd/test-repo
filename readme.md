@@ -1,2 +1,1 @@
-This is the first commit
-Doing some development
+This is the readme
